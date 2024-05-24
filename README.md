@@ -1,5 +1,4 @@
 # Machine-Learning-Course-SBU
-Projects Of Machine Learning Course In Shahid Beheshti University(National University Of Iran), CS Faculty 2021-2022
-Consist Of Tow Projects:
-1-Linear Regression With Regularization From Scratch
-2-Linear Classification From Scratch
+The Machine Learning course at Shahid Beheshti University (National University of Iran), CS Faculty for the academic year 2021-2022, consists of two projects:
+1. Linear Regression with Regularization from scratch
+2. Linear Classification from scratch
